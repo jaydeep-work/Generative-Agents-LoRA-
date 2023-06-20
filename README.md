@@ -1,3 +1,3 @@
 # Generative-Agents-LoRA-
 
-## code coming soon..!
+code coming soon..!
